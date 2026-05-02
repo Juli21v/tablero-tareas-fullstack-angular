@@ -1,8 +1,12 @@
-# Proyecto final BIT — Tablero de tareas (full stack)
+# Tablero de tareas (full stack)
 
 Aplicación de **gestión de tareas tipo tablero** desarrollada como proyecto integrador de bootcamp: autenticación, roles, tableros y archivos. Combina un **frontend en Angular** con **backend en Node.js** y **MongoDB**.
 
-**Autora del repositorio:** [@Juli21v](https://github.com/Juli21v)
+**Autora:** [@Juli21v](https://github.com/Juli21v)
+
+## Por qué es el proyecto estrella del portafolio
+
+Es el más **completo como producto demo**: login, JWT, roles, CRUD de tableros/tareas, upload de archivos y colección **Postman** para probar el API sin el front. Ideal como **primer pin** en el perfil de GitHub.
 
 ## Stack
 
@@ -23,7 +27,7 @@ Aplicación de **gestión de tareas tipo tablero** desarrollada como proyecto in
 ## Estructura del repositorio
 
 ```
-Proyecto-Final-BIT/
+tablero-tareas-fullstack-angular/
 ├── frontend/                 # Aplicación Angular
 │   ├── src/app/
 │   │   ├── home/            # Login, registro, cabecera, pie
